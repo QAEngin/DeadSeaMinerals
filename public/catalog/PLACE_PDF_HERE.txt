@@ -1,0 +1,9 @@
+Place your PDF catalog file here with this exact name:
+
+    CATALOG C& B 2022.pdf
+
+The "Download Catalog" button on the homepage hero links to:
+    /catalog/CATALOG C& B 2022.pdf
+
+If you rename the file, update the CATALOG_PDF constant in
+src/components/Hero.jsx to match.
