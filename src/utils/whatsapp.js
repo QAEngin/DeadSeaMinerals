@@ -1,4 +1,4 @@
-const WHATSAPP_NUMBER = '972544343247'
+const WHATSAPP_NUMBER = '955591585522'
 const STATIC_TEXT = 'გამარჯობათ, დაინტერესებული ვარ ამ პროდუქტით!'
 
 export function buildWhatsAppLink(product) {
