@@ -5,7 +5,7 @@ export default function Footer() {
     <footer id="contact" className="site-footer">
       <Logo light />
       <p className="site-footer__text">
-        კითხვების შემთხვევაში დაგვიკავშირდით WhatsApp-ზე: +972 54 434 3247
+        კითხვების შემთხვევაში დაგვიკავშირდით WhatsApp-ზე: +955 591 58 55 22
       </p>
       <p className="site-footer__copy">© {new Date().getFullYear()} — ყველა უფლება დაცულია</p>
     </footer>
